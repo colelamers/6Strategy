@@ -1,5 +1,9 @@
 #include <iostream>
 
+/*
+* Created by Cole Lamers
+*/
+
 using namespace std;
 
 class Strategy {
